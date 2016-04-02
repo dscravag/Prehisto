@@ -1,0 +1,20 @@
+game init attempt...
+SDL init success
+window creation success
+renderer creation success
+entering MenuState
+game init success!
+exiting MenuState
+Loading level:
+Version: 1.0
+Width:200 - Height:15
+Tile Width:32 - Tile Height:32
+adding texture assets/prehistoric.png with ID clouds
+adding texture assets/player.png with ID player
+adding texture assets/snail.png with ID snail
+adding texture blocks1.png with ID blocks1
+adding texture blocks2.png with ID blocks2
+entering PlayState
+game closing...
+cleaning game
+exiting PlayState
